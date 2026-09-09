@@ -6,6 +6,7 @@ A collection of competitive programming solutions solved on [Toph.co](https://to
 
 | # | Problem | Language | Time | Memory | Solution |
 |---|---|---|---|---|---|
+| - | [Divisors](https://toph.co/p/divisors) | `C++` | `0.004ss` | `NaNMB` | [solution.cpp](./toph/divisors/solution.cpp) |
 | - | [Find the Combination!](https://toph.co/p/find-the-combination) | `C++` | `0.003ss` | `NaNMB` | [solution.cpp](./toph/find-the-combination/solution.cpp) |
 
 ---
