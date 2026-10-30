@@ -7,7 +7,7 @@
 - **Language:** C++
 - **CPU Time:** `0.003ss`
 - **Memory:** `NaNMB`
-- **Submission ID:** `ide-1793367534082`
+- **Submission ID:** `ide-1793367750578`
 - **Solution:** [`solution.cpp`](./solution.cpp)
 
 ---
