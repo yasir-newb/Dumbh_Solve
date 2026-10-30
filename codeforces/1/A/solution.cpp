@@ -10,7 +10,7 @@ using vi = vector<int>;
 #define fast_io ios_base::sync_with_stdio(false); cin.tie(NULL);
 
 void solve() {
-    int n,m,o;cin>>n>>m>>o;
+    ll n,m,o;cin>>n>>m>>o;
 
     if(n%o!=0 && m%o!=0) cout<<(m/o +1)*(n/o +1);
     else if(n%o!=0 ) cout<<(m/o)*(n/o +1);
