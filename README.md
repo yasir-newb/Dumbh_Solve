@@ -6,6 +6,7 @@ A collection of competitive programming solutions solved on [Toph.co](https://to
 
 | Platform | Problem | Language | Time | Memory | Solution |
 |---|---|---|---|---|---|
+| Codeforces | [50A - Domino piling](https://codeforces.com/contest/50/problem/A) | `C++` | `--` | `--` | [solution.cpp](./codeforces/50/A/solution.cpp) |
 | Codeforces | [5B - Center Alignment](https://codeforces.com/contest/5/problem/B) | `C++` | `--` | `--` | [solution.cpp](./codeforces/5/B/solution.cpp) |
 | Codeforces | [4A - Watermelon](https://codeforces.com/contest/4/problem/A) | `C++` | `0.003ss` | `NaNMB` | [solution.cpp](./codeforces/4/A/solution.cpp) |
 | - | [Divisors](https://toph.co/p/divisors) | `C++` | `0.004ss` | `NaNMB` | [solution.cpp](./toph/divisors/solution.cpp) |
